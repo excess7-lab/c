@@ -1,0 +1,14 @@
+/home/eduardo/Documentos/C#/bin/Debug/net8.0/C#
+/home/eduardo/Documentos/C#/bin/Debug/net8.0/C#.deps.json
+/home/eduardo/Documentos/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/home/eduardo/Documentos/C#/bin/Debug/net8.0/C#.dll
+/home/eduardo/Documentos/C#/bin/Debug/net8.0/C#.pdb
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.dll
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/refint/C#.dll
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.pdb
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/home/eduardo/Documentos/C#/obj/Debug/net8.0/ref/C#.dll
